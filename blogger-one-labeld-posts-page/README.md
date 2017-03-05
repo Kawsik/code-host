@@ -32,3 +32,21 @@
 </script>
 <script type="text/javascript" src="/feeds/posts/default/-/YOUR-LABEL-NAME?published&alt=json-in-script&callback=labelthumbs"></script> <!-- Add YOUR-LABEL-NAME to show -->
 ```
+
+### Add and Edit as Needed
+````
+<style>
+    img.label_thumb {
+    }
+    #label_with_thumbs {
+    }
+    ul#label_with_thumbs li {
+    }
+    #label_with_thumbs li {
+    }
+    #label_with_thumbs a {
+    }
+    #label_with_thumbs strong {
+    }
+</style>
+````
