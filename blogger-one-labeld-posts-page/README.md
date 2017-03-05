@@ -8,7 +8,7 @@
 
 ## CSS LINK
 - [x] Copy link of style.css
-- [x] paste into this: https://rawgit.com/
+- [x] paste into this - https://rawgit.com/
 - [x] and copy URL in production from there.
 
 ## JAVA LINK
@@ -17,9 +17,10 @@
 ## Adding
 - [x] open page/post/widget(html/script)
 - [x] Paste those url like this:
-``` <link rel="stylesheet" type="text/css" href="STYLE-LINK" media="screen" /> // Add Your STYLE LINK
+```
+<link rel="stylesheet" type="text/css" href="STYLE-LINK" media="screen" /> // Add Your STYLE LINK
 <script type="text/javascript" src="JAVA-LINK"></script> // Add Your JAVA LINK
- <script type='text/javascript'> // You Must Add This, but you can edit variables as needed
+<script type='text/javascript'> // You Must Add This, but you can edit variables as needed
      var numposts = 3;
      var showpostthumbnails = true;
      var displaymore = false;
@@ -28,6 +29,6 @@
      var showpostdate = false;
      var showpostsummary = true;
      var numchars = 100;
- </script>
- <script type="text/javascript" src="/feeds/posts/default/-/YOUR-LABEL-NAME?published&alt=json-in-script&callback=labelthumbs"></script> // Add YOUR-LABEL-NAME to show
+</script>
+<script type="text/javascript" src="/feeds/posts/default/-/YOUR-LABEL-NAME?published&alt=json-in-script&callback=labelthumbs"></script> // Add YOUR-LABEL-NAME to show
 ```
