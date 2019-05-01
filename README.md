@@ -4,7 +4,8 @@
   - executable link: https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/one-label-posts-list.js
   - insert executable link above ```</head>```
   ### How to Call
-  - Where need a list, just Copy-paste the Code:
+  - Where need a list, just Copy-paste the Code from below.
+  - for more lists it must be called again as they are given below.
 ```html
 <script type='text/javascript'>
   var numposts = 10;
