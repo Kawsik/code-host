@@ -1,6 +1,8 @@
 # Blogger
 ## One Label Posts List
-  - insert link above ```</head>```
+  - raw git link: https://raw.githubusercontent.com/KawsikRoy/code-host/master/one-label-posts-list.js
+  - executable link: https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/one-label-posts-list.js
+  - insert executable link above ```</head>```
   ### How to Call
   - Where need a list, just Copy-paste the Code:
 ```html
