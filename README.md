@@ -40,5 +40,5 @@
 
 ## One Label Posts List
   - raw git link: ``` https://raw.githubusercontent.com/KawsikRoy/code-host/master/blogger-widget-fully-wide.js ```
-  - executable link: ``` https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/blogger-widget-fully-wide.js ```
+  - executable link: ``` https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/blogger-widget-fully-width.js ```
   - insert executable link above ```</head>```
