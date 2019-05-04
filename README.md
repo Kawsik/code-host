@@ -1,7 +1,7 @@
 # Blogger
 ## Show Widget if is HomePage
 example (homepage only):  
-```<b:widget cond='data:view.isHomepage' id='FeaturedPost1' locked='true' title='' type='FeaturedPost' visible='true'>```
+```<b:widget cond='data:view.isHomepage' id='FeaturedPost1' locked='true' title='' type='FeaturedPost' visible='true'>```  
 example (normal):  
 ``` <b:widget id='HTML16' locked='false' title='# books links' type='HTML' visible='true'> ```  
 **Descision: ```b:widget``` tag must have the following attribute**  
