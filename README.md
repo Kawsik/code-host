@@ -1,4 +1,29 @@
 # Blogger
+## Summery
+  - Show Widget if is HomePage: ``` cond='data:view.isHomepage' ```  
+  - above ``` </head> ```  
+  ```html
+<link href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css' rel='stylesheet' type='text/css'/>
+<link href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css' rel='stylesheet' type='text/css'/>
+<link crossorigin='anonymous' href='https://use.fontawesome.com/releases/v5.8.1/css/all.css' integrity='sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf' rel='stylesheet' type='text/css'/>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js' type='text/javascript'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js' type='text/javascript'></script>
+<script src='https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/one-label-posts-list.js' type='text/javascript'></script>
+<script src='https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/sitemap-all-label-all-posts.js' type='text/javascript'></script>
+<script src='https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/blogger-widget-fully-width.js' type='text/javascript'></script>
+  ```
+
+| Host             	| File Name                      	| v     	| etc	|
+|------------------	|--------------------------------	|-------	|---	|
+| cdnjs            	| owl.carousel.min.css           	| 2.3.4 	|   	|
+| cdnjs            	| owl.theme.default.min.css      	| 2.3.4 	|   	|
+| fontawesome      	| all.css                        	| 5.8.1 	|   	|
+| google           	| jquery.min.js                  	| 3.4.0 	|   	|
+| cdnjs            	| owl.carousel.min.js            	| 2.3.4 	|   	|
+| cdn.jsdelivr..gh 	| one-label-posts-list.js        	|       	|   	|
+| cdn.jsdelivr..gh 	| sitemap-all-label-all-posts.js 	|       	|   	|
+| cdn.jsdelivr..gh 	| blogger-widget-fully-width.js  	|       	|   	|
+
 ## Show Widget if is HomePage
 example (homepage only):  
 ```xml
