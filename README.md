@@ -1,4 +1,11 @@
 # Blogger
+## Show Widget if is HomePage
+example (homepage only):  
+```<b:widget cond='data:view.isHomepage' id='FeaturedPost1' locked='true' title='' type='FeaturedPost' visible='true'>```
+example (normal):  
+``` <b:widget id='HTML16' locked='false' title='# books links' type='HTML' visible='true'> ```  
+**Descision: ```b:widget``` tag must have the following attribute**  
+``` cond='data:view.isHomepage' ```
 ## One Label Posts List
   - raw git link: ``` https://raw.githubusercontent.com/KawsikRoy/code-host/master/one-label-posts-list.js ```
   - executable link: ``` https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/one-label-posts-list.js ```
