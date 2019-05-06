@@ -78,9 +78,4 @@ example (normal):
   - raw git link: ``` https://raw.githubusercontent.com/KawsikRoy/code-host/master/blogger-widget-fully-wide.js ```
   - executable link: ``` https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/blogger-widget-fully-width.js ```
   - insert executable link above ```</head>```
-# বাংলা
-## আমার 
-### তনা মঞ্চ কোনো রাজনৈতিক দলের সঙ্গে যুক্ত নয় । তবে মানবিক দৃষ্টিভঙ্গীতে সক
-#### তনা মঞ্চ কোনো রাজনৈতিক দলের সঙ্গে যুক্ত নয় । তবে মানবিক দৃষ্টিভঙ্গীতে সক
-##### তনা মঞ্চ কোনো রাজনৈতিক দলের সঙ্গে যুক্ত নয় । তবে মানবিক দৃষ্টিভঙ্গীতে সক
-###### 
+
