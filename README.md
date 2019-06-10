@@ -35,6 +35,13 @@ example (normal):
 ```  
 **Descision: ```b:widget``` tag must have the following attribute**  
 ``` cond='data:view.isHomepage' ```
+## Change Thumbnail Size for Blogger Images, Popular Posts Widget
+```html
+<script type="text/javascript">
+ $(document).ready(function() {$('.post-thumb').attr('src', function(i, src) {return src.replace( 's72-c', 's120-c' );});});
+<!-- helparchive.blogspot.com -->
+</script>
+````
 ## One Label Posts List
   - raw git link: ``` https://raw.githubusercontent.com/KawsikRoy/code-host/master/one-label-posts-list.js ```
   - executable link: ``` https://cdn.jsdelivr.net/gh/KawsikRoy/code-host/one-label-posts-list.js ```
